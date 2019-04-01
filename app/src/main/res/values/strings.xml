@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cadastro</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="alert_ok">OK</string>
+</resources>
